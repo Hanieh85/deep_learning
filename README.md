@@ -1,6 +1,10 @@
 # Deep Learning Project – Mushroom Classification
 A deep learning project that classifies mushroom images as edible or poisonous using a Convolutional Neural Network (CNN) built with TensorFlow/Keras. The project demonstrates a complete workflow including data cleaning, preprocessing, model training, and evaluation.
 
+## Presentation:
+Google Slides presentation explaining the project:
+https://docs.google.com/presentation/d/1dX3_35v2c-E8Vc-jmftVvcZB0odMawnXpC5ye1YPJ88/edit?usp=sharing
+
 Task: Binary image classification
 Input: 256×256 RGB images
 Classes: Edible, Poisonous
