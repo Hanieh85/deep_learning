@@ -71,9 +71,12 @@ Confusion Matrix
 
 Training and validation learning curves
 
+
+
 ▶️ How to Run the Project
 📦 Install Dependencies:
 pip install tensorflow numpy matplotlib pillow scikit-learn
+
 
 
 🎥 Project Presentation
