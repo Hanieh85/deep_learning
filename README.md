@@ -1,4 +1,4 @@
-# 🍄🤖 Deep Learning Project – Mushroom Classification
+# 🍄Deep Learning Project – Mushroom Classification
 
 A deep learning project that classifies mushroom images as **edible** or **poisonous** using a **Convolutional Neural Network (CNN)** built with **TensorFlow/Keras**. This project demonstrates an end-to-end deep learning workflow including **data cleaning**, **image preprocessing**, **model training**, and **performance evaluation**.
 
