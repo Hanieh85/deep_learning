@@ -29,9 +29,9 @@ data/
 └── test/
     ├── edible/
     └── poisonous/
+```
 
-
-
+     
 🧠 Model Architecture (CNN)
 
 Three convolutional layers with 16, 32, and 64 filters
@@ -58,6 +58,7 @@ Resized images to 256 × 256
 
 Normalized pixel values to the range [0, 1]
 
+
 📈 Model Evaluation
 
 Accuracy
@@ -70,12 +71,11 @@ Confusion Matrix
 
 Training and validation learning curves
 
-
 ▶️ How to Run the Project
-📦 Install Dependencies
+📦 Install Dependencies:
 pip install tensorflow numpy matplotlib pillow scikit-learn
 
-
 🎥 Project Presentation
+
 📑 Google Slides presentation explaining the project:
 https://docs.google.com/presentation/d/1dX3_35v2c-E8Vc-jmftVvcZB0odMawnXpC5ye1YPJ88/edit?usp=sharing 
